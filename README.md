@@ -24,14 +24,26 @@ This project offers an exciting opportunity for students to explore the world of
 
 ## Project Goals
 
-The Zenko Challenge Microsimulation has been designed with the following goals:
+**Create an AI microsimulation **
+
+The global vision is to create a microsimulation featuring AI agents that mimic the functionalities of ChatDev in an innovative way. Projects will be rated on 120 points.
+
+**The Zenko Challenge**
+
+Zenko Microsimulation has been designed with the following goals:
 
 
 **Collaborative Simulation**: Explore the potential of AI agents working collaboratively in a simulated environment.
-**GPT Integration**: Showcase the integration of AI agents with the powerful GPT model.
-**Learning Platform**: Provide a platform for students to experiment with AI agent development and integration.
-**Versatility Demonstration**: Demonstrate the versatility of AI agents in various domains and tasks, guided by GPT.
+**GPT Integration**: Showcase the integration of AI agents with  powerful LLM models.
+**Versatility Demonstration**: Demonstrate the versatility of AI agents in various domains and tasks, powered by LLM.
 
+**Tasks and Points**
+1. Create a virtual agent that handles the role of a director of customer relations (100 points)
+2. Integrate this virtual agent in a microsimulation environment (10 points)
+3. Add more virtual agents in this environment (10 points)
+
+Please review the full breakdown of the hackathon tasks:
+[ Hackathon Tasks](https://www.notion.so/Hackathon-Challenge-56b2f0c1e4434beaa16e1f87ca8c197b?pvs=21)
 
 ## Prizes
 
@@ -107,15 +119,36 @@ _Instructions.md)
 
 ## Rules and Guidelines
 
+Hackathon registration closes on October 20st.
+
+The hackathon starts on Saturday, October 21 at 1:00 PM UCT+3 and ends on Sunday, October 22 at 1:00 PM UTC +3.
+
+After every project is presented, the jury will shortly select and announce the best projects.
+
+
+
+
+
 ### Rules for Project submission
 
 Your project must be an MIT-licensed public GitHub repository.
 
-Each submission will be cloned on Sunday, October 22 at 12:59 PM UTC+3 and will then be evaluated by the jury during the next days.
+Each submission will be cloned on Sunday, October 22 at 12:59 PM UTC+3 and will then be evaluated by the jury during the next days.No changes will be possible after this date.
 
-No changes will be possible after this date.
 Each group must communicate their GitHub repository URL through Discord.
+
 An explicit [README.md](https://www.notion.so/Zenko-Hackathon-2023-fb46deadba324852acf1ea7fdffc9145?pvs=21) must be written and a 3-5 min presentation, in English, will be used by the jury to understand your project and its use.
+
+Don’t forget that the delivery of this project consist of two things: your technical delivery and your pitch presentation.
+The jury will have only a limited time to evaluate the teams projects and this presentation will be really important in order to do so.
+
+During the demonstration of your delivery, you will be judged on various points such as:
+
+- The quality of the agent(s)
+- The methodology that you used
+- The ambitions you had regarding the final objective
+- Clarity and objectivity in the presentation/documentation
+
 
 ## Resources
 
@@ -163,7 +196,8 @@ If you have any questions:
 
 - Gather: > [JOIN GATHER](https://app.gather.town/app/9umRMihbxZlJ1dQA/Zenko%20World) <
   Gather is a software mixing videoconferencing and movement in a 2D virtual universe. The hackathon is happening online on Gather, the Zenko teams & partners will be present for your questions and for presentations. 
-
+  https://www.youtube.com/watch?v=EK6CUMB_CNM
+  
 - Discord: > [JOIN DISCORD](https://discord.gg/aaZwbVAG) <
 
 
