@@ -35,14 +35,15 @@ The Zenko Challenge Microsimulation has been designed with the following goals:
 **Learning Platform**: Provide a platform for students to experiment with AI agent development and integration.
 **Versatility Demonstration**: Demonstrate the versatility of AI agents in various domains and tasks, guided by GPT.
 
+
 ## Generative Agent Concept
 
 ![image](https://github.com/zenkoworld/Hackathon/assets/124753965/9a5e1734-b2ab-4285-9b13-1d0d07a85761)
 
 
-The following documents provide a comprehensive overview of the LLM (Large Language Model)-powered autonomous agents. Check the detailed sections:
+The following document provides a comprehensive overview of the LLM (Large Language Model)-powered autonomous agents. Check the detailed sections:
 
-[- [LLM Powered Autonomous Agents]([./Generative_Agent_Concept/Introduction.md](https://lilianweng.github.io/posts/2023-06-23-agent/))](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- LLM Powered Autonomous Agents ([./Generative_Agent_Concept/Introduction.md](https://lilianweng.github.io/posts/2023-06-23-agent/))](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 
 
