@@ -60,7 +60,7 @@ Please review the full breakdown of the hackathon tasks:
 
 The following document provides a comprehensive overview of the LLM (Large Language Model)-powered autonomous agents. Check the detailed sections:
 
-- LLM Powered Autonomous Agents ([./Generative_Agent_Concept/Introduction.md](https://lilianweng.github.io/posts/2023-06-23-agent/))](https://lilianweng.github.io/posts/2023-06-23-agent/)
+- LLM Powered Autonomous Agents https://lilianweng.github.io/posts/2023-06-23-agent/
 
 
 
