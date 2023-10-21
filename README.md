@@ -110,6 +110,16 @@ Participants are encouraged to select one of the suggested project focuses below
 
 ## Project Datasets and Documents
 
+**Vector Databases
+https://cdn.sanity.io/images/vr8gru94/production/ff9ba425d0c78d696372e0a43ce57851b4f1d4b7-1307x233.png
+
+https://miro.medium.com/v2/resize:fit:1400/1*z0Vxi88KnIm6Fz15D31FuA.png
+
+https://miro.medium.com/v2/resize:fit:1400/1*aP8m4U_BzAe-dYDyzjS7EQ.png
+
+
+
+
 **Sample Client Docs**
 
 These documents are examples of the information needed for the agents to provide accurate and detailed event information       
@@ -125,6 +135,8 @@ These documents are examples of the information needed for the agents to provide
 [export_stands20230922 (1).csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/50b4b883-408e-4f6d-bb9c-3a97675e1a71/export_stands20230922_(1).csv)
 
 [DECHETS.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/07ae4e81-7c53-42b5-b650-c7e2ad5b7a0b/DECHETS.pdf)
+
+
 
 ## Rules and Guidelines
 
