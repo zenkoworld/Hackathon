@@ -121,11 +121,13 @@ Participants are encouraged to select one of the suggested project focuses below
 **Vector Database Documentation
 
 https://python.langchain.com/docs/integrations/vectorstores/chroma
+
 https://python.langchain.com/docs/integrations/vectorstores/chroma
 
 **Script Examples
 
 https://github.com/TestSavant/ingest_and_query/blob/main/ingest.py
+
 https://github.com/TestSavant/ingest_and_query/blob/main/query.py
 
 
