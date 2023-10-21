@@ -110,7 +110,9 @@ Participants are encouraged to select one of the suggested project focuses below
 
 ## Project Datasets and Documents
 
+
 **Vector Database Concepts
+
 
 ![image](https://cdn.sanity.io/images/vr8gru94/production/ff9ba425d0c78d696372e0a43ce57851b4f1d4b7-1307x233.png)
 
@@ -118,11 +120,13 @@ Participants are encouraged to select one of the suggested project focuses below
 
 ![image](https://miro.medium.com/v2/resize:fit:1400/1*aP8m4U_BzAe-dYDyzjS7EQ.png)
 
+
 **Vector Database Documentation
 
 [https://python.langchain.com/docs/modules/data_connections](https://python.langchain.com/docs/modules/data_connection/)
 
 [https://python.langchain.com/docs/integrations/vectorstores/chroma](https://python.langchain.com/docs/integrations/vectorstores/chroma)
+
 
 **Script Examples
 
@@ -131,9 +135,12 @@ https://github.com/TestSavant/ingest_and_query/blob/main/ingest.py
 https://github.com/TestSavant/ingest_and_query/blob/main/query.py
 
 
+
 **Sample Client Docs
 
+
 These documents are examples of the information needed for the agents to provide accurate and detailed event information       
+
 
 [FAQ_FDV_Zenko_V1.2 (1).pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/d398b637-d43c-4f60-8ea1-51e6adf7d4c6/FAQ_FDV_Zenko_V1.2_(1).pdf)
 
