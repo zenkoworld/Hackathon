@@ -1,8 +1,13 @@
 
 # LLM-Powered Autonomous Agents Hackathon: The Zenko Challenge Microsimulation
 
-Welcome to the Zenko Challenge Microsimulation, where we aim to pioneer advancements in generative AI Autonomous Agents leveraging large language models!
+We are delighted to welcome you to the Zenko Hackathon 2023 at the ***Politehnica University*** of ***Bucharest***. This prestigious event brings together talented participants with the sole aim of collaborating to create innovative and revolutionary technological solutions.
 
+If you have any questions:
+
+- Gather: > [JOIN GATHER](https://app.gather.town/app/9umRMihbxZlJ1dQA/Zenko%20World) <
+- Discord: > [JOIN DISCORD](https://discord.gg/aaZwbVAG) <
+- Team Lead: Laur Neagu
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -24,10 +29,22 @@ This project offers an exciting opportunity for students to explore the world of
 
 The Zenko Challenge Microsimulation has been designed with the following goals:
 
-1. **Collaborative Simulation**: Explore the potential of AI agents working collaboratively in a simulated environment.
-2. **GPT Integration**: Showcase the integration of AI agents with the powerful GPT model.
-3. **Learning Platform**: Provide a platform for students to experiment with AI agent development and integration.
-4. **Versatility Demonstration**: Demonstrate the versatility of AI agents in various domains and tasks, guided by GPT.
+
+**Collaborative Simulation**: Explore the potential of AI agents working collaboratively in a simulated environment.
+**GPT Integration**: Showcase the integration of AI agents with the powerful GPT model.
+**Learning Platform**: Provide a platform for students to experiment with AI agent development and integration.
+**Versatility Demonstration**: Demonstrate the versatility of AI agents in various domains and tasks, guided by GPT.
+
+## Generative Agent Concept
+
+![image](https://github.com/zenkoworld/Hackathon/assets/124753965/9a5e1734-b2ab-4285-9b13-1d0d07a85761)
+
+
+The following documents provide a comprehensive overview of the LLM (Large Language Model)-powered autonomous agents. Check the detailed sections:
+
+[- [LLM Powered Autonomous Agents]([./Generative_Agent_Concept/Introduction.md](https://lilianweng.github.io/posts/2023-06-23-agent/))](https://lilianweng.github.io/posts/2023-06-23-agent/)
+
+
 
 ## Potential Project Focuses
 
@@ -45,19 +62,9 @@ Participants are encouraged to select one of the suggested project focuses below
 - Accurately predicting attendee preferences and adapting to changing trends.
 - Integrating with various vendor systems for seamless event planning.
 
-### 2. Venue Recommender System
 
-**Concept:**
 
-- **Objective:** Design an agent that recommends event venues based on specific requirements such as capacity, ambiance, facilities, and location.
-- **Functionality:** Analyze user requirements, cross-reference available venues, and provide top recommendations.
-- **Application:** Event organizers, individuals, and corporations looking for suitable venues.
-
-**Challenges:**
-- Keeping an updated database of venues with real-time availability and features.
-- Handling diverse user preferences and requirements.
-
-### 3. Dynamic Event Promotion and Engagement
+### 2. Dynamic Event Promotion and Engagement
 
 **Concept:**
 
@@ -69,7 +76,7 @@ Participants are encouraged to select one of the suggested project focuses below
 - Crafting compelling promotional content that resonates with diverse audiences.
 - Real-time tracking of promotional campaign effectiveness and making necessary adjustments.
 
-### 4. Guest Experience Enhancer
+### 3. Guest Experience Enhancer
 
 **Concept:**
 
@@ -81,25 +88,7 @@ Participants are encouraged to select one of the suggested project focuses below
 - Ensuring guest privacy while collecting and analyzing data.
 - Integrating with various hotel management systems for real-time service optimization.
 
-### 5. Event Feedback and Improvement Agent
 
-**Concept:**
-
-- **Objective:** Design an autonomous agent that collects feedback from event attendees in real-time and provides actionable insights for immediate improvement.
-- **Functionality:** Gather feedback through interactive surveys, social media monitoring, and direct interactions; analyze the data and suggest areas of improvement.
-- **Application:** Any event aiming for continuous improvement, from small gatherings to large-scale conferences.
-
-**Challenges:**
-- Designing effective real-time feedback mechanisms that don't disrupt the attendee experience.
-- Rapidly analyzing feedback data and generating actionable insights during the course of the event.
-
-## Generative Agent Concept
-
-Lilian Weng's document provides a comprehensive overview of the LLM (Large Language Model)-powered autonomous agents. Check the detailed sections:
-
-- [Introduction to LLM-Powered Agents](./Generative_Agent_Concept/Introduction.md)
-- [Agent System Overview](./Generative_Agent_Concept/System_Overview.md)
-- [Components](./Generative_Agent_Concept/Components/)
 
 ## Getting Started
 
@@ -116,19 +105,52 @@ Make sure to adhere to the [Rules and Guidelines](./Rules_and_Guidelines.md) to 
 
 ## Resources
 
-- [API Documentation](./Resources/API_Docs/)
-- [Tutorial Videos](./Resources/Tutorials/)
-- [Sample Code](./Resources/Sample_Code/)
+**OpenAI :**
+- https://platform.openai.com/docs/api-reference
+- https://github.com/openai/openai-cookbook
+
+**Langchain :**
+
+- Doc: https://python.langchain.com/docs/get_started/introduction
+- GitHub: [https://github.com/langchain-ai/langchain/](https://github.com/langchain-ai/langchain)
+
+**HuggingFace :** 
+
+- App: https://huggingface.co/
+- Doc: https://huggingface.co/docs
+- Transformers: https://huggingface.co/docs/transformers/en/index
+- GitHub: https://github.com/huggingface
+
+**Github repository :** 
+
+AI multi-agent simulation (digital team)
+
+- https://github.com/OpenBMB/ChatDev
+- https://github.com/geekan/MetaGPT
+- https://github.com/OpenBMB/AgentVerse
+</aside>
 
 ## Submission
 
-All projects should be submitted through [Submission Portal](#) by the deadline. Check [Submission Guidelines](./Submission_Guidelines.md) for more details.
+
+Don’t forget that the delivery of this project consist of two things: your technical delivery and your pitch presentation.
+The jury will have only a limited time to evaluate the teams projects and this presentation will be really important in order to do so.
+
+### ✅ Review session:
+
+**We are doing a project review session 6 hours after the hackathon starts (6:00 PM UTC+3 on Oct, 21th) ! Also mandatory 😉
+The goal of this session is to do a technical follow-up, clarify and facilitate the development of your project.**
 
 ## FAQs
 
-Got questions? We've got answers. Check our [Frequently Asked Questions](./FAQs.md) section.
+If you have any questions:
+
+- Gather: > [JOIN GATHER](https://app.gather.town/app/9umRMihbxZlJ1dQA/Zenko%20World) <
+- Discord: > [JOIN DISCORD](https://discord.gg/aaZwbVAG) <
+- Team Lead: Laur Neagu
 
 ## Contact
 
-For any additional questions or assistance, please reach out to [hackathon_support@email.com](mailto:hackathon_support@email.com).
+For any additional questions or assistance, please reach out to 
+- Zenko Hackathon support:  [hackathon_support@email.com](mailto:hackathon_support@email.com).
 
