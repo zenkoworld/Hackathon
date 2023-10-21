@@ -11,7 +11,7 @@ We are delighted to welcome you to the Zenko Hackathon 2023 at the ***Politehnic
 - [Prizes](#Prizes)
 - [Generative Agent Concepts](#generative-agent-concept)
 - [Potential Project Focuses](#potential-project-focuses)
-- [Project Datasets and Documents](#getting-started)
+- [Project Datasets and Documents](#Project-Datasets-and-Documents)
 - [Rules and Guidelines](#rules-and-guidelines)
 - [Resources](#resources)
 - [Submission](#submission)
