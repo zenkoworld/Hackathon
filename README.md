@@ -120,7 +120,7 @@ Participants are encouraged to select one of the suggested project focuses below
 
 **Vector Database Documentation
 
-[https://python.langchain.com/docs/integrations/vectorstores/chroma](https://python.langchain.com/docs/modules/data_connection/)
+[https://python.langchain.com/docs/modules/data_connections](https://python.langchain.com/docs/modules/data_connection/)
 
 [https://python.langchain.com/docs/integrations/vectorstores/chroma](https://python.langchain.com/docs/integrations/vectorstores/chroma)
 
