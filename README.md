@@ -9,9 +9,9 @@ We are delighted to welcome you to the Zenko Hackathon 2023 at the ***Politehnic
 - [Introduction](#introduction)
 - [Project Goals](#project-goals)
 - [Prizes](#Prizes)
+- [Generative Agent Concepts](#generative-agent-concept)
 - [Potential Project Focuses](#potential-project-focuses)
-- [Generative Agent Concept](#generative-agent-concept)
-- [Getting Started](#getting-started)
+- [Project Datasets and Documents](#getting-started)
 - [Rules and Guidelines](#rules-and-guidelines)
 - [Resources](#resources)
 - [Submission](#submission)
@@ -108,14 +108,22 @@ Participants are encouraged to select one of the suggested project focuses below
 
 
 
-## Getting Started
+## Project Datasets and Documents
 
-Ready to dive in? Here's what you need:
+**Sample Client Docs
+These documents are examples of the information needed for the agents to provide accurate and detailed event information       
 
-- [Setup Instructions](./Getting_Started/Setup
+[FAQ_FDV_Zenko_V1.2 (1).pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/d398b637-d43c-4f60-8ea1-51e6adf7d4c6/FAQ_FDV_Zenko_V1.2_(1).pdf)
 
-_Instructions.md)
-- [Hackathon Timeline](./Getting_Started/Timeline.md)
+[20230921_FetedesVendanges.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/cbed06d9-6299-4e97-bdfd-5f92956b33a3/20230921_FetedesVendanges.pdf)
+
+[aff_A3_2023_sd (2).pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/937958a9-7df7-484a-883c-36b24d94604d/aff_A3_2023_sd_(2).pdf)
+
+[fdv_stands20230920.geojson](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/c6dbfe71-86f4-4d16-9f5c-4e74e7bd6d35/fdv_stands20230920.geojson)
+
+[export_stands20230922 (1).csv](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/50b4b883-408e-4f6d-bb9c-3a97675e1a71/export_stands20230922_(1).csv)
+
+[DECHETS.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ba535503-9bce-4686-86ed-0e28252f817c/07ae4e81-7c53-42b5-b650-c7e2ad5b7a0b/DECHETS.pdf)
 
 ## Rules and Guidelines
 
