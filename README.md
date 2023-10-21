@@ -110,14 +110,22 @@ Participants are encouraged to select one of the suggested project focuses below
 
 ## Project Datasets and Documents
 
-**Vector Databases
-https://cdn.sanity.io/images/vr8gru94/production/ff9ba425d0c78d696372e0a43ce57851b4f1d4b7-1307x233.png
+**Vector Database Concepts
 
-https://miro.medium.com/v2/resize:fit:1400/1*z0Vxi88KnIm6Fz15D31FuA.png
+![image](https://cdn.sanity.io/images/vr8gru94/production/ff9ba425d0c78d696372e0a43ce57851b4f1d4b7-1307x233.png)
 
-https://miro.medium.com/v2/resize:fit:1400/1*aP8m4U_BzAe-dYDyzjS7EQ.png
+![image](https://miro.medium.com/v2/resize:fit:1400/1*z0Vxi88KnIm6Fz15D31FuA.png)
 
+![image](https://miro.medium.com/v2/resize:fit:1400/1*aP8m4U_BzAe-dYDyzjS7EQ.png)
 
+**Vector Database Documentation
+https://python.langchain.com/docs/integrations/vectorstores/chroma
+
+https://python.langchain.com/docs/integrations/vectorstores/chroma
+
+**Script Examples
+https://github.com/TestSavant/ingest_and_query/blob/main/ingest.py
+https://github.com/TestSavant/ingest_and_query/blob/main/query.py
 
 
 **Sample Client Docs**
