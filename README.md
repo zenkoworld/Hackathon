@@ -3,15 +3,12 @@
 
 We are delighted to welcome you to the Zenko Hackathon 2023 at the ***Politehnica University*** of ***Bucharest***. This prestigious event brings together talented participants with the sole aim of collaborating to create innovative and revolutionary technological solutions.
 
-If you have any questions:
 
-- Gather: > [JOIN GATHER](https://app.gather.town/app/9umRMihbxZlJ1dQA/Zenko%20World) <
-- Discord: > [JOIN DISCORD](https://discord.gg/aaZwbVAG) <
-- Team Lead: Laur Neagu
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Project Goals](#project-goals)
+- [Prizes](#Prizes)
 - [Potential Project Focuses](#potential-project-focuses)
 - [Generative Agent Concept](#generative-agent-concept)
 - [Getting Started](#getting-started)
@@ -34,6 +31,14 @@ The Zenko Challenge Microsimulation has been designed with the following goals:
 **GPT Integration**: Showcase the integration of AI agents with the powerful GPT model.
 **Learning Platform**: Provide a platform for students to experiment with AI agent development and integration.
 **Versatility Demonstration**: Demonstrate the versatility of AI agents in various domains and tasks, guided by GPT.
+
+
+## Prizes
+
+
+- 1st Place: $1,000 and internship opportunity
+- 2nd Place: $700 and potential internship opportunity
+- 3rd Place: $500 and potential internship opportunity
 
 
 ## Generative Agent Concept
@@ -102,7 +107,15 @@ _Instructions.md)
 
 ## Rules and Guidelines
 
-Make sure to adhere to the [Rules and Guidelines](./Rules_and_Guidelines.md) to ensure a fair and productive hackathon.
+### Rules for Project submission
+
+Your project must be an MIT-licensed public GitHub repository.
+
+Each submission will be cloned on Sunday, October 22 at 12:59 PM UTC+3 and will then be evaluated by the jury during the next days.
+
+No changes will be possible after this date.
+Each group must communicate their GitHub repository URL through Discord.
+An explicit [README.md](https://www.notion.so/Zenko-Hackathon-2023-fb46deadba324852acf1ea7fdffc9145?pvs=21) must be written and a 3-5 min presentation, in English, will be used by the jury to understand your project and its use.
 
 ## Resources
 
@@ -113,7 +126,8 @@ Make sure to adhere to the [Rules and Guidelines](./Rules_and_Guidelines.md) to 
 **Langchain :**
 
 - Doc: https://python.langchain.com/docs/get_started/introduction
-- GitHub: [https://github.com/langchain-ai/langchain/](https://github.com/langchain-ai/langchain)
+- Agent: https://python.langchain.com/docs/modules/agents
+- GitHub: https://github.com/langchain-ai/langchain
 
 **HuggingFace :** 
 
@@ -122,14 +136,15 @@ Make sure to adhere to the [Rules and Guidelines](./Rules_and_Guidelines.md) to 
 - Transformers: https://huggingface.co/docs/transformers/en/index
 - GitHub: https://github.com/huggingface
 
-**Github repository :** 
+**Agent Framework Examples :** 
 
-AI multi-agent simulation (digital team)
-
+AI multi-agent simulations
+- https://github.com/yoheinakajima/babyagi
+- https://github.com/camel-ai/camel
 - https://github.com/OpenBMB/ChatDev
 - https://github.com/geekan/MetaGPT
 - https://github.com/OpenBMB/AgentVerse
-</aside>
+
 
 ## Submission
 
@@ -147,11 +162,14 @@ The goal of this session is to do a technical follow-up, clarify and facilitate 
 If you have any questions:
 
 - Gather: > [JOIN GATHER](https://app.gather.town/app/9umRMihbxZlJ1dQA/Zenko%20World) <
+  Gather is a software mixing videoconferencing and movement in a 2D virtual universe. The hackathon is happening online on Gather, the Zenko teams & partners will be present for your questions and for presentations. 
+
 - Discord: > [JOIN DISCORD](https://discord.gg/aaZwbVAG) <
-- Team Lead: Laur Neagu
+
+
 
 ## Contact
 
 For any additional questions or assistance, please reach out to 
-- Zenko Hackathon support:  [hackathon_support@email.com](mailto:hackathon_support@email.com).
+- Zenko Hackathon support:  [Team Lead: Laur Neagu](mailto:laur.neagu@unicorn-tech.org).
 
