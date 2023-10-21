@@ -131,7 +131,7 @@ https://github.com/TestSavant/ingest_and_query/blob/main/ingest.py
 https://github.com/TestSavant/ingest_and_query/blob/main/query.py
 
 
-**Sample Client Docs**
+**Sample Client Docs
 
 These documents are examples of the information needed for the agents to provide accurate and detailed event information       
 
